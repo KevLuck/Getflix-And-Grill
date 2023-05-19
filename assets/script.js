@@ -39,7 +39,7 @@ function displayRestaurantHistory() {
 
 // Get a random movie from the Movie Db API
 async function getRandomMovie() {
-  const requestUrl = 'https://api.themoviedb.org/3/movie/top_rated?api_key=594d9c3c5699caf2a193df2d2d298d75&language=en-US&page=1'
+  const requestUrl = 'https://api.themoviedb.org/3/movie/top_rated?api_key=9e777fbf23mshd5cb66fcb4717b9p170902jsn9434439eb519'
 	try {
 		const response = await fetch(requestUrl);
 		const data = await response.json();
