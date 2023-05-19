@@ -18,4 +18,4 @@ This application is used to randmonly generate a restuarant to give the user a s
 ![getflix_n_grill](https://github.com/PeteMcKasty/Getflix-And-Grill/assets/116979866/73c3fbc4-a201-4369-9b72-d4cb1a9897e4)
 
 ### URL:
-https://petemckasty.github.io/Getflix-And-Grill/
+(https://kevluck.github.io/Getflix-And-Grill/)
